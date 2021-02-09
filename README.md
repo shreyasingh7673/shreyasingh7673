@@ -1,12 +1,18 @@
+
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+ 
+ 
+ <br>
 ### Hi there 👋🏾  welcome to my Github! I am Shreya 👧
 
 - 🌱 I’m currently learning about Data Structures 
 - 👯 I’m looking to collaborate on Cpp projects and front-end Web Dev stuff
 
 <br>
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
+
 
 
 <p align="center">
