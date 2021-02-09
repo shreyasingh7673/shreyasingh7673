@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<a href= "https://www.linkedin.com/in/shreya-singh-3167651a7"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" style="width:5px;height:5px;"/></a>
+(https://img.shields.io/badge/-shreya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreya-singh-3167651a7//)](https://www.linkedin.com/in/shreya-singh-3167651a7/) [![Gmail Badge](https://img.shields.io/badge/-shreyasingh7673@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreyasingh7673@gmail.com)](mailto:shreyasingh7673@gmail.com)
 </p>
 
 <p align="center">
