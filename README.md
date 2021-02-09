@@ -12,10 +12,16 @@
  
  
  <br>
-                    - Hi there 👋🏾  welcome to my Github! I am Shreya 👧
+ <p style="text-align:center;">
 
-                   - 🌱 I’m currently learning about Data Structures 
-                   - 👯 I’m looking to collaborate on Cpp projects and front-end Web Dev stuff
+Hi there 👋🏾  welcome to my Github! I am Shreya 👧
+
+🌱 I’m currently learning about Data Structures 
+👯 I’m looking to collaborate on Cpp projects and front-end Web Dev stuff
+            
+            
+            
+</p>
 
 <br>
 
