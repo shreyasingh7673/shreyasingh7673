@@ -12,11 +12,12 @@
  
  
  <br>
- <p style="text-align:center;">
+ <p align="center">
 
 Hi there 👋🏾  welcome to my Github! I am Shreya 👧
 
 🌱 I’m currently learning about Data Structures 
+
 👯 I’m looking to collaborate on Cpp projects and front-end Web Dev stuff
             
             
