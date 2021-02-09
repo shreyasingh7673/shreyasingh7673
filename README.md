@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋🏾  welcome to my Github! I am Shreya 👧
 
-<!--
-**shreyasingh7673/shreyasingh7673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Data Structure
+- 🤔 I’m looking for creating a projects in front-end
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+
+<p align="center">
+
+<a href= "https://www.linkedin.com/in/shreya-singh-3167651a7"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A"/></a>
+</p>
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
+
+
+⭐️ From [Shreya](https://github.com/shreyasingh7673)
